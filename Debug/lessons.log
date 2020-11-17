@@ -1,0 +1,5 @@
+﻿  Pirate_wars.cpp
+D:\My_projects\C++\STEP\lessons\lessons\Pirate_wars.cpp(41,42): warning C4309: 'initializing': truncation of constant value
+D:\My_projects\C++\STEP\lessons\lessons\Pirate_wars.cpp(41,61): warning C4309: 'initializing': truncation of constant value
+D:\My_projects\C++\STEP\lessons\lessons\Pirate_wars.cpp(92,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  lessons.vcxproj -> D:\My_projects\C++\STEP\lessons\Debug\lessons.exe
